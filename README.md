@@ -1,1 +1,1 @@
-# ChemMAP
+# Chem-map
