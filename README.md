@@ -1,6 +1,6 @@
 This repository collect scripts and general code used for the analysis of Chem-map datasets
 
-https://github.com/sblab-bioinformatics/Chem-map/blob/14bf2ae74885f79a55ebe3440c6fad005bcd3ce0/bash_commands_deeptools.sh
+[Read processing] (./bash_commands_deeptools.sh)
 
 bash, python and R scripts used for different part of the data processing
 
