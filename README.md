@@ -25,3 +25,7 @@ Seacr version 1.3
 deepTools version 2.0
 bedtools v.2.30.0
 DiffBind version 3.15
+
+
+Cite Chem-map
+Zutao Yu, Jochen Spiegel, Larry Melidis, Winnie W. I. Hui, Xiaoyun Zhang, Antanas Radzevičius, Shankar Balasubramanian. Chem-map profiles drug binding to chromatin in cells. Nat. Biotechn. In press
